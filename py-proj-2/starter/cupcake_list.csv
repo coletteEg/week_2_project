@@ -1,0 +1,7 @@
+size,name,price,flavor,frosting,sprinkles,filling
+regular,Banana Nut,3.99,Banana bread,cream cheese,"['chopped nuts']",
+mini,devils food cake,0.99,Chocolate,whipped devils food frosting,['brownie chunks'],
+large,Vanilla,5.00,vanilla,buttercream,["multi-colored sprinkles"],
+regular,Gotham City,3.99,Chocolate,black chocolate,"['yellow bat sprinkles']",
+mini,christmas year round,0.99,vanilla,ginger bread frosting,['christmas tree sprinkles'],
+large,Lemon Poppyseed,5.00,lemon poppyseed,cream cheese,["poppyseeds"], lemon curd
